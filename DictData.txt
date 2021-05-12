@@ -1,0 +1,56 @@
+fruit
+The sweet fleshy product of a tree or other plant that contains seeds.
+Tropical fruits such as mangoes and papaya.
+0 -1
+mango
+A fleshy, oval, yellowish fruit.
+There are many varieties of mangoes in India.
+0 -1
+apple
+A round red fruit of a tree of rose family.
+An apple a day keeps the doctor away.
+0 -1
+banana
+A long curved fruit with soft puply flesh.
+Bananas are full of iron.
+0 -1
+happy
+feeling or showing pleasure or contentment.
+Mike is very happy and excited.
+4 -1
+cheerful
+notable happy and optimistic.
+How can be so cheerful at early morning.
+4 -1
+merry
+cheerful and lively.
+The streets are full of merry groups of students.
+5 -1
+sad
+feeling or showing sorrow.
+I was sad and subdued.
+7 4
+depressed
+in a state of unhappiness or despondency.
+She felt lonely and depressed.
+7 -1
+gloomy
+causing or feeling depression or despondency.
+gloomy forecasts about economy.
+7 -1
+fast
+moving or capable of moving at high speed.
+A fast and powerful car.
+10 -1
+quick
+moving fast or doing something in short time.
+He is quicker than his opponents.
+10 -1
+swift
+happening quickly or promptly.
+A remarkably swift recovery.
+10 -1
+slow
+moving or operating at low speed.
+Diesel cars are slow and noisy.
+13 10
